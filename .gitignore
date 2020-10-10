@@ -1,0 +1,13 @@
+
+/.idea/
+/TimetableSystem.iml
+/out/
+/dist/
+
+
+/.idea
+.iml
+/out
+/dist
+TimetableSystem-dev.iml
+/nbproject
