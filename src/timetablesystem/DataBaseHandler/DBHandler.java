@@ -4,7 +4,7 @@ package timetablesystem.DataBaseHandler;
 import java.sql.*;
 
 public class DBHandler {
-    private Connection con;
+    private Conneddfction con;
     private Statement st;
     private ResultSet rs;
     private String url,user,pass;
